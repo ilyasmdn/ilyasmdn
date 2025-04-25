@@ -38,12 +38,11 @@ No fluff. Just results.
 
 ## 🧠 Mindset
 
-> “The moment I start working on something, it’s already done.”  
-> – Ilyas
+> "Execution is everything. Once I commit to building something, it's already in motion."
 
-I don’t chase trends. I build systems.  
-I don’t want fame. I want results.  
-I’m not here to play—I’m here to win.
+I approach every project with precision, discipline, and long-term vision.  
+I'm not here to follow trends—I’m here to engineer lasting impact.  
+Success isn't a goal—it's the natural outcome of consistent, focused action.
 
 ## ⚡ Let’s Connect
 
