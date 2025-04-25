@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Ilyas
 
+🧠 Software Engineer. 
 🎯 Focused. Relentless. Vision-driven.  
 🚀 Building systems, not just apps.  
-🧠 Software Engineer. 
 
 ## ⚒️ My Mission
 
