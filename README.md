@@ -16,8 +16,8 @@ No fluff. Just results.
 ## 🔥 Current Projects
 
 - 🧠 **Snaphire** – AI-powered interview training  
-- 🎬 **AutoShorts** – Automating short-form video content  
-- 💳 **LemonFlow** – Subscription-based onboarding system  
+- 🎬 **AutoShorts** – Automating short-form video content
+- 💻 **LifeOS** - Advanced life management dashboard  
 
 ## 🧰 Tech I Use Constantly
 
