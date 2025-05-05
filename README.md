@@ -46,6 +46,6 @@ Success isn't a goal—it's the natural outcome of consistent, focused action.
 
 ## ⚡ Let’s Connect
 
-🌐 [Portfolio](https://ilyasmdn.github.io/portfolio/)  
+🌐 [Portfolio](https://www.ilyasmdn.me)  
 📬 [LinkedIn](https://www.linkedin.com/in/ilyas-el-madni-1a741531a/)  
 
