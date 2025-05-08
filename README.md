@@ -41,11 +41,11 @@ No fluff. Just results.
 > "Execution is everything. Once I commit to building something, it's already in motion."
 
 I approach every project with precision, discipline, and long-term vision.  
-I'm not here to follow trends—I’m here to engineer lasting impact.  
-Success isn't a goal—it's the natural outcome of consistent, focused action.
+I'm not here to follow trends, I’m here to engineer lasting impact.  
+Success isn't a goal, it's the natural outcome of consistent, focused action.
 
 ## ⚡ Let’s Connect
 
 🌐 [Portfolio](https://www.ilyasmdn.me)  
-📬 [LinkedIn](https://www.linkedin.com/in/ilyas-el-madni-1a741531a/)  
+📬 [LinkedIn](https://www.linkedin.com/in/ilyas-elmadni/)  
 
