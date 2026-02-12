@@ -4,15 +4,11 @@ I'm a Software Engineering student from El Jadida, Morocco 🇲🇦.
 I build **web and mobile applications**, focus on **full-stack development**, and love **automation & smart systems**.  
 Currently working on projects that integrate **Next.js, Tailwind, and security-focused backend systems**.
 
----
-
 ## 🛠️ My Skills
 
 - **Frontend:** React.js, Next.js, TailwindCSS, ShadCN UI  
 - **Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
-- **Other:** Git, DevOps basics, Security, Automation
-
----
+- **Other:** Git, DevOps, Docker, Security, Automation
 
 ## 📊 GitHub Stats
 
@@ -22,14 +18,10 @@ Currently working on projects that integrate **Next.js, Tailwind, and security-f
 
 [![GitHub Streak](https://gh-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
----
-
 ## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyas-blue?logo=linkedin)](https://www.linkedin.com/in/ilyas-elmadni/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)](https://www.ilyasmdn.me)
-
----
 
 ### ⚡ Fun Fact
 I love solving **complex problems efficiently** and building systems that **just work** — kind of like a mechanic for code.  
