@@ -12,11 +12,11 @@ Currently working on projects that integrate **Next.js, Tailwind, and security-f
 
 ## 📊 GitHub Stats
 
-[![Ilyas's GitHub Stats](https://gh-readme-profile.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/ilyasmdn)
+[![Ilyas's GitHub Stats](https://gh-readme-profile.vercel.app/api?username=ilyasmdn&theme=tokyonight)](https://github.com/ilyasmdn)
 
-[![Top Languages](https://gh-readme-profile.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/ilyasmdn)
+[![Top Languages](https://gh-readme-profile.vercel.app/api/top-langs/?username=ilyasmdn&layout=compact&theme=tokyonight)](https://github.com/ilyasmdn)
 
-[![GitHub Streak](https://gh-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://github.com/ilyasmdn)
+[![GitHub Streak](https://gh-readme-streak-stats.herokuapp.com/?user=ilyasmdn&theme=tokyonight)](https://github.com/ilyasmdn)
 
 ## 🌐 Connect with me
 
