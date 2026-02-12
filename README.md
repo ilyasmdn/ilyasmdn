@@ -30,12 +30,6 @@ No fluff. Just results.
 
 *Also playing with: C, php, Gemini API, Vapi, Recharts, etc.*
 
-## 📈 GitHub Stats
-
-![Ilyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilyasmdn&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilyasmdn&layout=compact&theme=radical)
-
 ## 🧠 Mindset
 
 > "Execution is everything. Once I commit to building something, it's already in motion."
