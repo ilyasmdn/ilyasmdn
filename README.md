@@ -1,45 +1,36 @@
-# 👋 Hey, I'm Ilyas
+# Hi, I'm Ilyas 👋
 
-🧠 Software Engineer.  
-🎯 Focused. Relentless. Vision-driven.  
-🚀 Building systems, not just apps.  
+I'm a Software Engineering student from El Jadida, Morocco 🇲🇦.  
+I build **web and mobile applications**, focus on **full-stack development**, and love **automation & smart systems**.  
+Currently working on projects that integrate **Next.js, Tailwind, and security-focused backend systems**.
 
-## ⚒️ My Mission
+---
 
-To design precise, automated, and powerful systems that:
-- Solve real problems.
-- Scale like machines.
-- Look clean and feel fast.
+## 🛠️ My Skills
 
-No fluff. Just results.
+- **Frontend:** React.js, Next.js, TailwindCSS, ShadCN UI  
+- **Backend:** Node.js, Express.js, PostgreSQL, MongoDB  
+- **Other:** Git, DevOps basics, Security, Automation
 
-## 🔥 Current Projects
+---
 
-- 🧠 **Snaphire** – AI-powered interview training  
-- 🎬 **AutoShorts** – Automating short-form video content
-- 💻 **LifeOS** - Advanced life management dashboard  
+## 📊 GitHub Stats
 
-## 🧰 Tech I Use Constantly
+[![Ilyas's GitHub Stats](https://gh-readme-profile.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)  
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=fff)  
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff)  
-![LemonSqueezy](https://img.shields.io/badge/LemonSqueezy-6B4EFF?logo=data:image/svg+xml;base64,...)
+[![Top Languages](https://gh-readme-profile.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
-*Also playing with: C, php, Gemini API, Vapi, Recharts, etc.*
+[![GitHub Streak](https://gh-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)](https://github.com/YOUR_USERNAME)
 
-## 🧠 Mindset
+---
 
-> "Execution is everything. Once I commit to building something, it's already in motion."
+## 🌐 Connect with me
 
-I approach every project with precision, discipline, and long-term vision.  
-I'm not here to follow trends, I’m here to engineer lasting impact.  
-Success isn't a goal, it's the natural outcome of consistent, focused action.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilyas-blue?logo=linkedin)](https://www.linkedin.com/in/ilyas-elmadni/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?logo=google-chrome)](https://www.ilyasmdn.me)
 
-## ⚡ Let’s Connect
+---
 
-🌐 [Portfolio](https://www.ilyasmdn.me)  
-📬 [LinkedIn](https://www.linkedin.com/in/ilyas-elmadni/)  
+### ⚡ Fun Fact
+I love solving **complex problems efficiently** and building systems that **just work** — kind of like a mechanic for code.  
 
